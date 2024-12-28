@@ -14,3 +14,6 @@ in root created a script file,
   - then set view port
   - then takes screenshot with path (changed my path so it wont get replaced everytime), to take full screenshot use fullpage: true,
   - closes browser
+
+
+more on https://playwright.dev/docs/intro
