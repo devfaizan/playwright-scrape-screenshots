@@ -1,6 +1,6 @@
 const { firefox, webkit } = require("playwright");
 
-async function screenshots(params) {
+async function screenshots() {
     const broswer = await firefox.launch();
     const context = await broswer.newContext();
     const page = await context.newPage();
