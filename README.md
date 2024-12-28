@@ -1,4 +1,4 @@
-# Cool playwright screenshots and scrapeing
+# Cool playwright screenshots and scraping
 
 ## Tests
 in test-example > example-spec.js we goto a webpage and expects that webpage to have heading with specified text to be visiable
